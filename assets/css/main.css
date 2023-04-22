@@ -636,6 +636,15 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+@media screen and (max-width: 741px) {
+			#header .logo {
+				border:  0;
+			}
+			#header > *:before {
+				background: none;
+			}
+		}
+
 /* Image */
 
 	.image {
