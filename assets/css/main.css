@@ -136,8 +136,8 @@ input, select, textarea {
 		}
 
 @media screen and (max-width: 741px) {
-			#header.logo {
-				border:  0px;
+			#header .logo {
+				border: 0px;
 			}
 			#header > *:before {
 				background: none;
