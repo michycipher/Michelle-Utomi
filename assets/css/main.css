@@ -1446,14 +1446,16 @@ input, select, textarea {
 				#header > *:before {
 					top: calc(-2rem - 1px);
 					height: calc(2rem + 1px);
+				background: none;
 				}
 
 			#header .logo {
 				width: 4.75rem;
 				height: 4.75rem;
 				line-height: 4.75rem;
+				border: 0px;
 			}
-
+			
 				#header .logo .icon:before {
 					font-size: 1.75rem;
 				}
