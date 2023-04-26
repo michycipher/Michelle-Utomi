@@ -136,6 +136,10 @@ input, select, textarea {
 		}
 
 @media screen and (max-width: 740px) {
+	img{
+		width:100%;
+	}
+	
 			.logo {
 				border: 0px;
 			}
